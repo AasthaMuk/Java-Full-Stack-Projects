@@ -1,0 +1,27 @@
+<button class="btn btn-primary" [routerLink]="['create']" style="margin-top:50px;">Create Employee</button>
+<h2 style="margin-top:30px;">Employee Details</h2>
+<hr>
+<table class="table" style="margin-top: 20px;" >
+    <thead>
+        <tr>
+            <th>EmpId</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Salary</th>
+            <th>EmailId</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let e of empList">
+            <td>{{e.id}}</td>
+            <td>{{e.name}}</td>
+            <td>{{e.age}}</td>
+            <td>{{e.salary}}</td>
+            <td>{{e.emailid}}</td>
+            <td><button class="btn btn-success" [routerLink]="['view',e.id]">View</button></td>
+            <td><button class="btn btn-warning" [routerLink]="['update',e.id]">Update</button></td>
+            <td><button class="btn btn-danger" [routerLink]="['delete',e.id]">Delete</button></td>
+        </tr>
+    </tbody>
+</table>
+
