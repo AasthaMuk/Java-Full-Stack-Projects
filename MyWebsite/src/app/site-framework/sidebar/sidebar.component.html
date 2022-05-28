@@ -1,0 +1,9 @@
+<h1 class="my-4"><a href="products">Shopify</a></h1>
+<div class="list-group" >
+  <a href="products" class="list-group-item">
+    View All Products
+  </a>
+  <a href="category/{{cat.id}}" class="list-group-item" *ngFor="let cat of categoryList">
+      {{cat.categoryName}}
+  </a>
+</div>

@@ -1,0 +1,146 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Apple Macbook",
+      "price": "$45",
+      "isAvailable": "true",
+      "rating": 4,
+      "description": "Apple M1 chip with 8‑core CPU, 8‑core GPU and 16‑core Neural Engine\n8GB unified memory\n256GB SSD storage\n33.74 cm (13.3-inch) Retina display with True Tone\nBacklit Magic Keyboard - US English\nTouch Bar and Touch ID\nTwo Thunderbolt / USB 4 ports",
+      "productImg": "https://m.media-amazon.com/images/I/718ETwvLVOL._SL1500_.jpg",
+      "categoryId": 1,
+      "color": "Silky Silver",
+      "reviews": 5
+    },
+    {
+      "id": 2,
+      "productName": "Compaq",
+      "price": "$20",
+      "isAvailable": "true",
+      "rating": 4,
+      "description": "The HP Compaq 15-a002TU is one of the few good laptops that runs on Ubuntu's operating system. It is powered by Intel's i3 Processor and has 4 GB of RAM for quick processing of data.",
+      "productImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnAubF3rGJ_wvcRWPeeVzJOsGgAi0_R_E_JQ&usqp=CAU",
+      "categoryId": 1,
+      "color": "Grey",
+      "reviews": 5
+    },
+    {
+      "productName": "Men Olive Green Solid Hooded Sweatshirt",
+      "price": "Rs 900",
+      "isAvailable": "true",
+      "rating": 4,
+      "description": "Olive Green solid sweatshirt, has a hood, two pockets, long sleeves, zip closure, straight hem",
+      "productImg": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11959238/2020/11/2/2c0bd95a-ff6f-4458-862a-3608bf63899c1604307157929-Roadster-Men-Sweatshirts-8141604307154568-1.jpg",
+      "categoryId": 2,
+      "color": "Olive Green",
+      "reviews": 5,
+      "id": 4
+    },
+    {
+      "id": "5",
+      "productName": "Midi Dress",
+      "price": "Rs. 1055",
+      "isAvailable": "true",
+      "rating": "3",
+      "description": "Black and pink printed woven wrap dress with tie-up detail, has a v-neck, three-quarter sleeves, concealed zip closure, an attached lining, and flared hem",
+      "productImg": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10856160/2019/11/5/df4c3d9b-12fb-4c9c-80bb-051b6d8e80c21572938034874-SASSAFRAS-Women-Dresses-9581572938032856-5.jpg",
+      "categoryId": "3",
+      "color": "Black and pink",
+      "reviews": "3"
+    },
+    {
+      "id": "6",
+      "productName": "Women Olive Green Solid Denim Jacket",
+      "price": "Rs. 809",
+      "isAvailable": "true",
+      "rating": "3",
+      "description": "Olive Green solid denim jacket, has a spread collar, 4 pockets, button closure, long sleeves, and straight hem",
+      "productImg": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10562422/2019/11/7/3744522a-4d29-4016-b109-4f98cb05cfd11573105654540-Roadster-Women-Jackets-7941573105651250-1.jpg",
+      "categoryId": "3",
+      "color": "Olive Green",
+      "reviews": "3"
+    },
+    {
+      "id": "7",
+      "productName": "Women Teal Printed Kurta with Trousers & With Dupatta",
+      "price": "Rs. 1039",
+      "isAvailable": "true",
+      "rating": "1",
+      "description": "Teal printed Kurta with Trousers with dupatta\n\nKurta design:\nGeometric printed\nStraight shape\nRegular style\nBoat neck, three-quarter regular sleeves\nCalf length with straight hem\nViscose rayon machine weave fabric",
+      "productImg": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15003602/2021/8/5/b617ea13-c8be-4c2d-b295-3dcfe941cece1628187918692JAIPURIBUNAAIWomenTealPrintedKurtawithTrousersWithDupatta1.jpg",
+      "categoryId": "3",
+      "color": "Teal",
+      "reviews": "3"
+    },
+    {
+      "id": "8",
+      "productName": "Blue Jersey Shorts",
+      "price": "Rs. 399",
+      "isAvailable": "true",
+      "rating": "3",
+      "description": "Knee-length shorts in soft jersey with covered elastication and a drawstring at the waist.",
+      "productImg": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17810286/2022/4/8/1ad9300f-786d-44b4-baad-67010cfd74071649401086115Jerseyshorts1.jpg",
+      "categoryId": "4",
+      "color": "Blue",
+      "reviews": "3"
+    },
+    {
+      "id": "9",
+      "productName": "Boys Grey & Black Cotton Round Neck Printed T-shirt",
+      "price": "Rs. 299",
+      "isAvailable": "true",
+      "rating": "4",
+      "description": "Classic T-shirt in soft, printed cotton jersey with a ribbed trim around the neckline.",
+      "productImg": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18084554/2022/4/29/1914d0c0-5b94-4df8-9fd7-6a1120a0c3c71651202348302PrintedT-shirt1.jpg",
+      "categoryId": "4",
+      "color": "Grey and Black",
+      "reviews": "4"
+    },
+    {
+      "id": "10",
+      "productName": "Orange & Brown 3 Tier Walnut Hand Finish Floor Magnum Lamp",
+      "price": "Rs. 3330",
+      "isAvailable": "true",
+      "rating": "3",
+      "description": "Type: Floor Lamp with Shade\nColour: Orange \nPattern: Solid\nShape: Frustum\nMaterial: Wood\n\nSize & Fit\nHeight: 153 cm\nWidth: 41 cm\n\nMaterial & Care\nWood\nWipe With Clean Cloth Softly\nKeep Away From Water\nFor Indoor Use Only",
+      "productImg": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15534020/2021/9/20/7a7028ed-c881-466a-89f5-1f574d1c8cf61632126824415MagnumLampwith3TierShelfSpaceinWalnutHandPolished1.jpg",
+      "categoryId": "5",
+      "color": "Orange and Brown",
+      "reviews": "4"
+    },
+    {
+      "id": "11",
+      "productName": "Beige & Black Printed Anti-Skid Carpet",
+      "price": "Rs. 10438",
+      "isAvailable": "true",
+      "rating": "4",
+      "description": "Set Content: One carpet\nColour: Beige, black and blue\nFabric: Polyester\nShape: Rectangular\nPattern: Floral\nFeatures: Anti-Skid\n\n\nSize & Fit\nDimensions: 2.13 m x 1.52 m (Length x Width)",
+      "productImg": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/1/7/90700776-21a7-4f80-a460-2bdf7b2a4a171578349919512-1.jpg",
+      "categoryId": "5",
+      "color": "Beige & Black",
+      "reviews": "4.5"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Electronics"
+    },
+    {
+      "id": 2,
+      "categoryName": "Mens"
+    },
+    {
+      "id": 3,
+      "categoryName": "Womens"
+    },
+    {
+      "id": 4,
+      "categoryName": "Children"
+    },
+    {
+      "id": 5,
+      "categoryName": "Homeware"
+    }
+  ]
+}
